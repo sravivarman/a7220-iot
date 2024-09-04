@@ -1,7 +1,9 @@
 # a7220-iot
- **A7220 - IoT and It's Applications Laboratory**\\
- 2024 - 2025\\
- IV Year I Semester EEE
+ **A7220 - IoT and It's Applications Laboratory
+ 
+ 2024 - 2025
+ 
+ IV Year I Semester EEE**
  
 **Practice**
 1. Installation and Configuration Process of various development boards.

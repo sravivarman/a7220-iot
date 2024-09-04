@@ -1,3 +1,4 @@
+//Ex. 2. Control two LEDs through Node MCU web server
 #include <ESP8266WiFi.h>  // Load Wi-Fi library
 
 // Replace with your network credentials
